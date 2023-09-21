@@ -22,7 +22,7 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
   <li>Linear Search</li>
   <li>And many more...</li>
 </ul>
-
+<br />
 <h2>💭 Project Structure</h2>
 <ul>
   <li>Each algorithm resides in a separate directory.</li>
