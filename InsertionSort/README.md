@@ -11,5 +11,7 @@
 <p>5- Insert the current element into the correct position in the sorted portion.</p>
 <p>6- Repeat steps 3 to 5 until all elements are sorted.</p>
 <br />
-
+<br />
 <image src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" />
+<br />
+<br />
