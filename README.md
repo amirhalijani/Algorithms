@@ -15,3 +15,18 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
   <li>Quick Sort</li>
   <li>And many more...</li>
 </ul>
+
+<h4>🔸 Search Algorithms:</h4>
+<ul>
+  <li>Binary Search</li>
+  <li>Linear Search</li>
+  <li>And many more...</li>
+</ul>
+<br />
+<br />
+
+<h2>💭 Project Structure</h2>
+<ul>
+  <li>Each algorithm resides in a separate directory.</li>
+  <li>Each directory includes files related to the algorithm, documentation, and practical usage examples.</li>
+</ul>
