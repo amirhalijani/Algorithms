@@ -37,4 +37,5 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
 <br />
 
 <h2>💡 Source of Inspiration</h2>
+
 This repository of algorithms, written in Go as the primary language, has been inspired by the book "Introduction to Algorithms" (CLRS) and the efforts of its authors, the CLRS team (Cormen, Leiserson, Rivest, Stein). We extend our heartfelt thanks to them as the primary source for this project, as they have provided the knowledge that has enabled this repository to become an educational resource for the developer community. We appreciate the profound and valuable insights shared by all the authors of the CLRS book.
