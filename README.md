@@ -31,4 +31,4 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
 <br />
 <h2>✨ Acknowledgments</h2>
 <p>I'd like to thank you for using this repository and helping to enhance it. If you have any questions or feedback, please don't hesitate to contact me.</p>
-📧 amiralijaniiwork@gmail.com
+📧 email: amiralijaniiwork@gmail.com
