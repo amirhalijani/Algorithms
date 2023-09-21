@@ -12,6 +12,6 @@
 <p>6- Repeat steps 3 to 5 until all elements are sorted.</p>
 <br />
 <br />
-<image src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" />
+<image src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" style="margine:auto;" />
 <br />
 <br />
