@@ -4,9 +4,9 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
 <br />
 <br />
 
-<h2>🔖 Algorithms Included in This Repository:</h2>
+<h2>🔖 Algorithms Included in This Repository</h2>
 
-<h4>🔹Sorting Algorithms:</h4>
+<h4>🔹 Sorting Algorithms:</h4>
 <ul>
   <li>Bubble Sort</li>
   <li>Selection Sort</li>
