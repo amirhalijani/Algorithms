@@ -10,5 +10,6 @@
 <p>4- Shift the elements in the sorted portion to the right to make space for the current element, if necessary.</p>
 <p>5- Insert the current element into the correct position in the sorted portion.</p>
 <p>6- Repeat steps 3 to 5 until all elements are sorted.</p>
+<br />
 
 <image src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png" />
