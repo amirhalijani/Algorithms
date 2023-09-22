@@ -9,7 +9,7 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
 <h4>🔹 Sorting Algorithms:</h4>
 <ul>
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/BubbleSort">Bubble Sort</a></li>
-  <li>Selection Sort</li>
+  <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/SelectionSort">Selection Sort</a></li>
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/InsertionSort">Insertion Sort</a></li>
   <li>Merge Sort</li>
   <li>Quick Sort</li>
