@@ -19,7 +19,7 @@
 <br />
 <br />
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" alt="Merge-sort-example-300px.gif" width="800">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" alt="Merge-sort-example-300px.gif" width="600">
 </p>
 <br />
 <br />
