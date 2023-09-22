@@ -15,7 +15,7 @@
     <li>Repeat these steps until you've merged all elements from both subarrays into the temporary array.</li>
     <li>Finally, replace the original subarray with the merged, sorted subarray.</li>
 </ul>
-<p>4-<b>Repeat and Combine:</b>Continue this process of dividing, sorting, and merging until you have merged all the subarrays back together into a single sorted array. This final merged array is your sorted result.</p>
+<p>4-<b>Repeat and Combine:</b> Continue this process of dividing, sorting, and merging until you have merged all the subarrays back together into a single sorted array. This final merged array is your sorted result.</p>
 <br />
 <br />
 <p align="center">
