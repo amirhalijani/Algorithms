@@ -12,6 +12,7 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/SelectionSort">Selection Sort</a></li>
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/InsertionSort">Insertion Sort</a></li>
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/MergeSort">Merge Sort</a></li>
+  <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/QuickSort">Quick Sort</a></li>
   <li>Quick Sort</li>
   <li>And many more...</li>
 </ul>
