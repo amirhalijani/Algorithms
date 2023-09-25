@@ -15,7 +15,7 @@
 <br />
 <br />
 <p align="center">
-  <image src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif" width="400" />
+  <image src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif" width="500" />
 </p>
 <br />
 <br />
