@@ -39,7 +39,7 @@
 <br />
 <br />
 <p align="center">
-  <image src="https://www.boardinfinity.com/blog/content/images/2023/03/Heap-sort-algo.png" width="500" />
+  <image src="https://www.boardinfinity.com/blog/content/images/2023/03/Heap-sort-algo.png" />
 </p>
 <br />
 <br />
