@@ -43,6 +43,6 @@
 </p>
 <br />
 <br />
-<h2>📚 Conclusion</h2>
+<h2>📚 Conclusions</h2>
     
 <p>🔸 Heap Sort has a time complexity of O(n log n) for both its average and worst cases, making it more efficient than some other sorting algorithms like bubble sort or insertion sort, especially for large datasets. However, it's not as simple to implement as some of the other sorting algorithms.</p>
