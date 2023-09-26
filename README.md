@@ -19,7 +19,7 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
 
 <h4>🔸 Search Algorithms:</h4>
 <ul>
-  <li>Binary Search</li>
+  <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/BinarySearch">Binary Search</a></li>
   <li>Linear Search</li>
   <li>And many more...</li>
 </ul>
