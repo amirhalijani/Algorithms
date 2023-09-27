@@ -14,6 +14,7 @@ Finally, the day has come when I've implemented various algorithms in Go and gat
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/MergeSort">Merge Sort</a></li>
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/QuickSort">Quick Sort</a></li>
   <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/HeapSort">Heap Sort</a></li>
+  <li><a href="https://github.com/amirhalijani/Algorithms/tree/main/CountingSort">Counting Sort</a></li>
   <li>And many more...</li>
 </ul>
 
