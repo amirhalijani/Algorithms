@@ -4,11 +4,11 @@
 <br />
 
 <h3>📝 Here's a step-by-step explanation of how the selection sort algorithm works:</h3>
-<p>1-<b>Initialization:</b> The list is divided into two parts: the sorted part on the left and the unsorted part on the right. Initially, the sorted part is empty, and the unsorted part contains all the elements.</p>
-<p>2-<b>Finding the Minimum / Maximum Element:</b> The algorithm searches for the minimum (or maximum) element in the unsorted part of the list. To do this, it iterates through the unsorted part, comparing each element with the current minimum (or maximum) found so far. If a smaller element (or larger element) is encountered, it becomes the new minimum (or maximum).</p>
-<p>3-<b>Swapping:</b> Once the minimum element (or maximum) in the unsorted part is found, it is swapped with the leftmost (or rightmost) element in the unsorted part. This effectively moves the minimum (or maximum) element to the end of the sorted part and expands the sorted part by one element. The unsorted part becomes one element shorter.</p>
-<p>4-<b>Repeat:</b> Repeat: Steps 2 and 3 are repeated until the entire list is sorted. In each iteration, the smallest (or largest) remaining element in the unsorted part is moved to the sorted part.</p>
-<p>5-<b>Termination:</b> The algorithm terminates when the entire list is sorted, and the sorted part covers the entire list.</p>
+<p>1- <b>Initialization:</b> The list is divided into two parts: the sorted part on the left and the unsorted part on the right. Initially, the sorted part is empty, and the unsorted part contains all the elements.</p>
+<p>2- <b>Finding the Minimum / Maximum Element:</b> The algorithm searches for the minimum (or maximum) element in the unsorted part of the list. To do this, it iterates through the unsorted part, comparing each element with the current minimum (or maximum) found so far. If a smaller element (or larger element) is encountered, it becomes the new minimum (or maximum).</p>
+<p>3- <b>Swapping:</b> Once the minimum element (or maximum) in the unsorted part is found, it is swapped with the leftmost (or rightmost) element in the unsorted part. This effectively moves the minimum (or maximum) element to the end of the sorted part and expands the sorted part by one element. The unsorted part becomes one element shorter.</p>
+<p>4- <b>Repeat:</b> Repeat: Steps 2 and 3 are repeated until the entire list is sorted. In each iteration, the smallest (or largest) remaining element in the unsorted part is moved to the sorted part.</p>
+<p>5- <b>Termination:</b> The algorithm terminates when the entire list is sorted, and the sorted part covers the entire list.</p>
 <br />
 <br />
 <p align="center">
