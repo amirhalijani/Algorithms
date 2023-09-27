@@ -18,6 +18,6 @@
 </p>
 <br />
 <br />
-<h2>📚 Conclusion</h2>
+<h2>📚 Conclusions</h2>
     
 <p>🔸 Bubble sort has a time complexity of O(n^2) in the worst and average cases, where 'n' is the number of elements in the list. It is not considered efficient for large lists, but it is straightforward to understand and implement, making it a useful educational tool and sometimes practical for small lists or nearly sorted data. There are more efficient sorting algorithms, such as quicksort or mergesort, that are generally preferred for larger datasets.</p>

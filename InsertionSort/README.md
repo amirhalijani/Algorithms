@@ -17,6 +17,6 @@
 </p>
 <br />
 <br />
-<h2>📚 Conclusion</h2>
+<h2>📚 Conclusions</h2>
     
 <p>🔸 Insertion sort has a time complexity of O(n^2) in the worst and average cases, where 'n' is the number of elements in the list. However, it performs well with small lists and is adaptive, meaning it becomes more efficient when dealing with partially sorted data.</p>

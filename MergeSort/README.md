@@ -23,6 +23,6 @@
 </p>
 <br />
 <br />
-<h2>📚 Conclusion</h2>
+<h2>📚 Conclusions</h2>
     
 <p>🔸 The key characteristics of Merge Sort are its stability (the relative order of equal elements is preserved) and its consistent O(n log n) time complexity for the worst-case, average-case, and best-case scenarios. However, it does require additional space for the temporary arrays used in the merging process, which can make it less efficient in terms of memory usage compared to some other sorting algorithms. Nevertheless, it is a robust and widely-used sorting algorithm, especially in situations where stable sorting or predictable performance is crucial.</p>

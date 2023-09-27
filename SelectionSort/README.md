@@ -16,6 +16,6 @@
 </p>
 <br />
 <br />
-<h2>📚 Conclusion</h2>
+<h2>📚 Conclusions</h2>
     
 <p>🔸 Selection sort has a time complexity of O(n^2) in the worst case, where 'n' is the number of elements in the list. This makes it inefficient for large lists. It also performs a fixed number of swaps (O(n)), which can be advantageous in situations where minimizing data movement is a priority, such as in embedded systems or when the cost of swaps is high. Despite its simplicity, selection sort is not commonly used in practice for sorting large datasets, as more efficient sorting algorithms like merge sort, quicksort, or heapsort typically offer better performance. However, selection sort can be a good choice for small lists or as a learning tool to understand sorting algorithms' basic principles.</p>

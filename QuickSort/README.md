@@ -19,6 +19,6 @@
 </p>
 <br />
 <br />
-<h2>📚 Conclusion</h2>
+<h2>📚 Conclusions</h2>
     
 <p>🔸 Quick Sort is known for its average-case time complexity of O(n log n), where 'n' is the number of elements in the array. However, in the worst-case scenario (when the pivot selection consistently results in unbalanced partitions), it can have a time complexity of O(n^2). To mitigate this, various strategies for pivot selection, such as choosing the median of three random elements, are often employed to improve performance in practice.</p>
