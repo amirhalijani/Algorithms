@@ -4,9 +4,9 @@
 <br />
 
 <h3>📝 Here's a step-by-step explanation of the Merge Sort algorithm:</h3>
-<p>1-<b>Divide:</b> The first step is to divide the input array into two roughly equal halves. This is done recursively until each subarray contains only one element, as a single element is always considered sorted.</p>
-<p>2-<b>Conquer:</b> Once you have divided the array into smaller parts, you recursively sort each of these smaller subarrays. This is typically done by calling the Merge Sort algorithm recursively on each half.</p>
-<p>3-<b>Merge:</b> After all the smaller subarrays are sorted, the merging step comes into play. In this step, you take two sorted subarrays and merge them to create a larger, sorted subarray. The merging process involves comparing elements from both subarrays and placing them in the correct order in a new, temporary array.</p>
+<p>1- <b>Divide:</b> The first step is to divide the input array into two roughly equal halves. This is done recursively until each subarray contains only one element, as a single element is always considered sorted.</p>
+<p>2- <b>Conquer:</b> Once you have divided the array into smaller parts, you recursively sort each of these smaller subarrays. This is typically done by calling the Merge Sort algorithm recursively on each half.</p>
+<p>3- <b>Merge:</b> After all the smaller subarrays are sorted, the merging step comes into play. In this step, you take two sorted subarrays and merge them to create a larger, sorted subarray. The merging process involves comparing elements from both subarrays and placing them in the correct order in a new, temporary array.</p>
 <ul>
     <li>Start with two pointers, one for each subarray, initially pointing to the first element in each subarray.</li>
     <li>Compare the elements pointed to by the two pointers and select the smaller one.</li>
@@ -15,7 +15,7 @@
     <li>Repeat these steps until you've merged all elements from both subarrays into the temporary array.</li>
     <li>Finally, replace the original subarray with the merged, sorted subarray.</li>
 </ul>
-<p>4-<b>Repeat and Combine:</b> Continue this process of dividing, sorting, and merging until you have merged all the subarrays back together into a single sorted array. This final merged array is your sorted result.</p>
+<p>4- <b>Repeat and Combine:</b> Continue this process of dividing, sorting, and merging until you have merged all the subarrays back together into a single sorted array. This final merged array is your sorted result.</p>
 <br />
 <br />
 <p align="center">
